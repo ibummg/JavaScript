@@ -42,7 +42,7 @@ document.write('<button onclick="sumita();" >  Canto son?  </button>');
 function saudar() {
 
 	var nn = document.getElementById("nomecito").value;
-	var ap = document.getElementById("apelidazo").v
+	var ap = document.getElementById("apelidazo").value;
 	var ed = document.getElementById("años").value;
 
 	document.getElementById("nomecito").style.borderColor = "#FF00FF";
